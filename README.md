@@ -2,8 +2,12 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## Como me encontrar
+
+<div align="center"> 
+  
+  ## Como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Henriquediogo250@gmail.com) 
+</div>
 
 ###
 
