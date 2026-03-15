@@ -41,14 +41,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DiogoHenriquedotpy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoHenriquedotpy/DiogoHenriquedotpy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoHenriquedotpy/DiogoHenriquedotpy/output/pacman-contribution-graph.svg">
