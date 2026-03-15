@@ -7,8 +7,6 @@
 
 <h1 align="center">👋Olá, eu sou o Diogo Henrique!</h1>
 
-###
-
 <div align="center">
 
   ## Como me encontrar
