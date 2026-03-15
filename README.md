@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">👋Olá, me chamo Diogo Henrique!</h1>
+<h1 align="center">👋Olá, eu sou o Diogo Henrique!</h1>
 
 ###
 
