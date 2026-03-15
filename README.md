@@ -25,7 +25,7 @@
 <p align="left">
 📍 Sorocaba/SP - Brasil <br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Interessado em Python, HTML e CSS
+🛠️ Interessado em Python, HTML e CSS
 </p>
 
 ## 💻 Tecnologias que estudo
@@ -38,3 +38,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
  <img align="center" alt="CSS" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DiogoHenriquedotpy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
