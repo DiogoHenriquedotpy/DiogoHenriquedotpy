@@ -3,6 +3,12 @@
 </div>
 
 
+###
+
+<h1 align="center">👋Olá, me chamo Diogo Henrique!</h1>
+
+###
+
 <div align="center">
 
   ## Como me encontrar
@@ -11,13 +17,6 @@
 ****
 </div>
 
-</div>
-
-###
-
-<h1 align="center">👋Olá, eu sou o (Diogo)!</h1>
-
-###
 
 <h3 align="left">👨‍💻  Sobre mim</h3>
 
